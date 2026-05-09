@@ -26,7 +26,7 @@
 
 - 🔧 Building **ETL/ELT Pipelines | Cloud Data Warehouses | Batch Processing Systems** on AWS
 - ⚡ Reduced pipeline refresh latency by **75%** using Airflow, Glue, and Snowpipe at J&J Hospitality
-- 🎓 M.S. Applied Data Science — **Syracuse University** (May 2025)
+- 🎓 M.S. Applied Data Science - **Syracuse University** (May 2025)
 - 🌍 Experience across **Hospitality • Entertainment • Academic** domains
 - 🔍 Currently working with **Airflow, AWS Glue, Snowflake, Redshift, dbt, and PySpark**
 - 🌐 Portfolio: [tamistry.netlify.app](https://tamistry.netlify.app/)
