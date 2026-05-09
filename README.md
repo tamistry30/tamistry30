@@ -22,18 +22,16 @@
 
 ## 🚀 About Me
 
-```python
-tejas = {
-    "name"       : "Tejas Mistry",
-    "location"   : "Syracuse, NY 🇺🇸",
-    "education"  : "M.S. Applied Data Science — Syracuse University (May 2025)",
-    "experience" : "2+ years | Hospitality • Entertainment • Academic",
-    "stack"      : ["Airflow", "AWS Glue", "Snowflake", "Redshift", "dbt", "PySpark"],
-    "impact"     : "75% latency reduction | 680K+ records processed | 120K+ records ingested",
-    "open_to"    : ["Data Engineer", "Data Analyst", "Data Scientist"],
-    "fun_fact"   : "When not building pipelines → gym + distributed systems 💪"
-}
-```
+## 🧑‍💻 About Me
+
+- 🔧 Building **ETL/ELT Pipelines | Cloud Data Warehouses | Batch Processing Systems** on AWS
+- ⚡ Reduced pipeline refresh latency by **75%** using Airflow, Glue, and Snowpipe at J&J Hospitality
+- 🎓 M.S. Applied Data Science — **Syracuse University** (May 2025)
+- 🌍 Experience across **Hospitality • Entertainment • Academic** domains
+- 🔍 Currently working with **Airflow, AWS Glue, Snowflake, Redshift, dbt, and PySpark**
+- 🌐 Portfolio: [tamistry.netlify.app](https://tamistry.netlify.app/)
+- 📫 Reach me at: [tejas2000930@gmail.com](mailto:tejas2000930@gmail.com)
+- 💪 Fun fact: *I build pipelines by day and hit the gym by night*
 
 ---
 
