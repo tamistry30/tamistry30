@@ -63,9 +63,10 @@
 
 | 🏗️ Project | 📝 Description | 🔧 Stack |
 |---|---|---|
-| **vBay Data Warehouse** | Medallion Architecture (Bronze/Silver/Gold) with dbt star-schema for an auction platform. 17.65% auction success rate surfaced via Power BI | Snowflake · dbt · AWS Glue · S3 · Power BI |
-| **Airfare Prediction Pipeline** | PySpark ETL processing 2M+ flight records into Parquet. Gradient Boosting + Random Forest achieving RMSE 12.6 | PySpark · AWS S3 · MLlib · Parquet |
-| **Energy Consumption Forecasting** | XGBoost + ARIMA models forecasting hourly energy consumption. Interactive Shiny dashboard for visualization | R · XGBoost · ARIMA · Shiny |
+| **[vBay Data Warehouse](https://github.com/tamistry30)** | Medallion Architecture (Bronze/Silver/Gold) with dbt star-schema for an auction platform. 17.65% auction success rate surfaced via Power BI | Snowflake · dbt · AWS Glue · S3 · Power BI |
+| **[Airfare Prediction Pipeline](https://github.com/tamistry30)** | PySpark ETL processing 2M+ flight records into Parquet. Gradient Boosting + Random Forest achieving RMSE 12.6 | PySpark · AWS S3 · MLlib · Parquet |
+| **[NVIDIA GPU Market Analysis](https://github.com/tamistry30/nvidia-gpu-visualization)** | Analyzed 12K+ GPU records (1980–2024) across NVIDIA, AMD, Intel, ASUS, and MSI — linking product launches to benchmark scores, market share, and stock price trends | R · ggplot2 · tidyverse · Adobe Illustrator |
+| **[Energy Consumption Forecasting](https://github.com/tamistry30/Energy-Consumption-Analysis)** | XGBoost + ARIMA models forecasting hourly energy consumption. Interactive Shiny dashboard for visualization | R · XGBoost · ARIMA · Shiny |
 
 </div>
 
