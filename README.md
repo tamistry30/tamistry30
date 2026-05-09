@@ -22,8 +22,6 @@
 
 ## 🚀 About Me
 
-## 🧑‍💻 About Me
-
 - 🔧 Building **ETL/ELT Pipelines | Cloud Data Warehouses | Batch Processing Systems** on AWS
 - ⚡ Reduced pipeline refresh latency by **75%** using Airflow, Glue, and Snowpipe at J&J Hospitality
 - 🎓 M.S. Applied Data Science - **Syracuse University** (May 2025)
